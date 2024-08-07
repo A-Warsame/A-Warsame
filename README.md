@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
+
 - 🔭 I’m currently working on **Etch-a-sketch project**
 
 - 🌱 I’m currently learning **The Odin Project**

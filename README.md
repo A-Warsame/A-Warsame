@@ -8,9 +8,6 @@
 
 - 📫 How to reach me **aawarsame12@gmail.com**
 
-[![A-Warsame's GitHub | Stats](https://stats.quira.sh/A-Warsame/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=A-Warsame)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

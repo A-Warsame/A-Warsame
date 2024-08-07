@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
-<h3 align="center">An aspiring software developer from London, UK</h3>
-
 - 🔭 I’m currently working on **Etch-a-sketch project**
 
 - 🌱 I’m currently learning **The Odin Project**

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Etch-a-sketch project**
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **Full Stack JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-Warsame](https://github.com/A-Warsame)
 

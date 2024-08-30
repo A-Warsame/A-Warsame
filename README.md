@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
 
-- 🔭 I’m currently working on **Etch-a-sketch project**
+- 🔭 I’m currently working on **LeapQuest**, a platforming game using JavaScript.
 
 - 🌱 I’m currently learning **Full Stack JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/A-Warsame](https://github.com/A-Warsame)
+- 👯 I’m looking to collaborate on open-source game development projects.
+  
+- 💬 Ask me about web development or JavaScript.
+
+- ⚡ Fun fact: I started coding by creating a simple quote generator and have been passionate about programming ever since!
 
 - 📫 How to reach me **aawarsame12@gmail.com**
 

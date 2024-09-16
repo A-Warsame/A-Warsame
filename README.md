@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
 
-- 🔭 I’m currently working on **LeapQuest**, a platforming game using JavaScript.
+- 🔭 I’m currently working on **Speech Recognition** project using JavaScript.
 
 - 🌱 I’m currently learning **Full Stack JavaScript**
 

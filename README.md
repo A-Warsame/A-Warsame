@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
 
-- 🔭 I’m currently working on **Speech Recognition** project using JavaScript.
-
-- 🌱 I’m currently learning **Full Stack JavaScript**
+- 🌱 I’m currently learning **MOOC - Java Programming II**
 
 - 👯 I’m looking to collaborate on open-source game development projects.
   

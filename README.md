@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdal</h1>
-
-- 🌱 I’m currently learning **MOOC - Java Programming II**
-
-- 👯 I’m looking to collaborate on open-source game development projects.
   
-- 💬 Ask me about web development or JavaScript.
-
-- ⚡ Fun fact: I started coding by creating a simple quote generator and have been passionate about programming ever since!
-
-- 📫 How to reach me **aawarsame12@gmail.com**
-
 <p align="left">
 </p>
 
